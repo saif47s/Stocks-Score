@@ -1,0 +1,417 @@
+[
+  {
+    "i": 0,
+    "label": "Open",
+    "value": "375.00"
+  },
+  {
+    "i": 1,
+    "label": "High",
+    "value": "376.00"
+  },
+  {
+    "i": 2,
+    "label": "Low",
+    "value": "368.87"
+  },
+  {
+    "i": 3,
+    "label": "Volume",
+    "value": "260,640"
+  },
+  {
+    "i": 4,
+    "label": "CIRCUIT BREAKER",
+    "value": "336.48 — 411.26"
+  },
+  {
+    "i": 5,
+    "label": "DAY RANGE",
+    "value": "368.87 — 376.00"
+  },
+  {
+    "i": 6,
+    "label": "52-WEEK RANGE ^",
+    "value": "253.01 — 452.00"
+  },
+  {
+    "i": 7,
+    "label": "Ask Price",
+    "value": "0.00"
+  },
+  {
+    "i": 8,
+    "label": "Ask Volume",
+    "value": "0"
+  },
+  {
+    "i": 9,
+    "label": "Bid Price",
+    "value": "0.00"
+  },
+  {
+    "i": 10,
+    "label": "Bid Volume",
+    "value": "0"
+  },
+  {
+    "i": 11,
+    "label": "LDCP",
+    "value": "373.87"
+  },
+  {
+    "i": 12,
+    "label": "VAR",
+    "value": "13.50"
+  },
+  {
+    "i": 13,
+    "label": "HAIRCUT",
+    "value": "17.50"
+  },
+  {
+    "i": 14,
+    "label": "P/E Ratio (TTM) **",
+    "value": "8.08"
+  },
+  {
+    "i": 15,
+    "label": "1-Year Change * ^",
+    "value": "28.17%"
+  },
+  {
+    "i": 16,
+    "label": "YTD Change * ^",
+    "value": "-2.57%"
+  },
+  {
+    "i": 17,
+    "label": "",
+    "value": ""
+  },
+  {
+    "i": 18,
+    "label": "",
+    "value": ""
+  },
+  {
+    "i": 19,
+    "label": "Open",
+    "value": "373.00"
+  },
+  {
+    "i": 20,
+    "label": "High",
+    "value": "373.00"
+  },
+  {
+    "i": 21,
+    "label": "Low",
+    "value": "369.00"
+  },
+  {
+    "i": 22,
+    "label": "Close",
+    "value": "369.50"
+  },
+  {
+    "i": 23,
+    "label": "Change",
+    "value": "-2.04%"
+  },
+  {
+    "i": 24,
+    "label": "LDCP",
+    "value": "377.19"
+  },
+  {
+    "i": 25,
+    "label": "Volume",
+    "value": "3,000"
+  },
+  {
+    "i": 26,
+    "label": "Total Trades",
+    "value": "5"
+  },
+  {
+    "i": 27,
+    "label": "CIRCUIT BREAKER",
+    "value": "339.47 — 414.91"
+  },
+  {
+    "i": 28,
+    "label": "DAY RANGE",
+    "value": "369.00 — 373.00"
+  },
+  {
+    "i": 29,
+    "label": "",
+    "value": ""
+  },
+  {
+    "i": 30,
+    "label": "Ask Price",
+    "value": "0.00"
+  },
+  {
+    "i": 31,
+    "label": "Ask Volume",
+    "value": "0"
+  },
+  {
+    "i": 32,
+    "label": "Bid Price",
+    "value": "0.00"
+  },
+  {
+    "i": 33,
+    "label": "Bid Volume",
+    "value": "0"
+  },
+  {
+    "i": 34,
+    "label": "Open",
+    "value": "0.00"
+  },
+  {
+    "i": 35,
+    "label": "High",
+    "value": "0.00"
+  },
+  {
+    "i": 36,
+    "label": "Low",
+    "value": "0.00"
+  },
+  {
+    "i": 37,
+    "label": "Close",
+    "value": "0.00"
+  },
+  {
+    "i": 38,
+    "label": "Change",
+    "value": "0.00%"
+  },
+  {
+    "i": 39,
+    "label": "LDCP",
+    "value": "381.42"
+  },
+  {
+    "i": 40,
+    "label": "Volume",
+    "value": "0"
+  },
+  {
+    "i": 41,
+    "label": "Total Trades",
+    "value": "0"
+  },
+  {
+    "i": 42,
+    "label": "CIRCUIT BREAKER",
+    "value": "343.28 — 419.56"
+  },
+  {
+    "i": 43,
+    "label": "DAY RANGE",
+    "value": "0.00 — 0.00"
+  },
+  {
+    "i": 44,
+    "label": "",
+    "value": ""
+  },
+  {
+    "i": 45,
+    "label": "Ask Price",
+    "value": "0.00"
+  },
+  {
+    "i": 46,
+    "label": "Ask Volume",
+    "value": "0"
+  },
+  {
+    "i": 47,
+    "label": "Bid Price",
+    "value": "0.00"
+  },
+  {
+    "i": 48,
+    "label": "Bid Volume",
+    "value": "0"
+  },
+  {
+    "i": 49,
+    "label": "Open",
+    "value": "0.00"
+  },
+  {
+    "i": 50,
+    "label": "High",
+    "value": "0.00"
+  },
+  {
+    "i": 51,
+    "label": "Low",
+    "value": "0.00"
+  },
+  {
+    "i": 52,
+    "label": "Close",
+    "value": "0.00"
+  },
+  {
+    "i": 53,
+    "label": "Change",
+    "value": "0.00%"
+  },
+  {
+    "i": 54,
+    "label": "LDCP",
+    "value": "377.19"
+  },
+  {
+    "i": 55,
+    "label": "Volume",
+    "value": "0"
+  },
+  {
+    "i": 56,
+    "label": "Total Trades",
+    "value": "0"
+  },
+  {
+    "i": 57,
+    "label": "CIRCUIT BREAKER",
+    "value": "339.47 — 414.91"
+  },
+  {
+    "i": 58,
+    "label": "DAY RANGE",
+    "value": "0.00 — 0.00"
+  },
+  {
+    "i": 59,
+    "label": "",
+    "value": ""
+  },
+  {
+    "i": 60,
+    "label": "Ask Price",
+    "value": "0.00"
+  },
+  {
+    "i": 61,
+    "label": "Ask Volume",
+    "value": "0"
+  },
+  {
+    "i": 62,
+    "label": "Bid Price",
+    "value": "0.00"
+  },
+  {
+    "i": 63,
+    "label": "Bid Volume",
+    "value": "0"
+  },
+  {
+    "i": 64,
+    "label": "Open",
+    "value": "0.00"
+  },
+  {
+    "i": 65,
+    "label": "High",
+    "value": "0.00"
+  },
+  {
+    "i": 66,
+    "label": "Low",
+    "value": "0.00"
+  },
+  {
+    "i": 67,
+    "label": "Close",
+    "value": "0.00"
+  },
+  {
+    "i": 68,
+    "label": "Change",
+    "value": "0.00%"
+  },
+  {
+    "i": 69,
+    "label": "LDCP",
+    "value": "386.71"
+  },
+  {
+    "i": 70,
+    "label": "Volume",
+    "value": "0"
+  },
+  {
+    "i": 71,
+    "label": "Total Trades",
+    "value": "0"
+  },
+  {
+    "i": 72,
+    "label": "CIRCUIT BREAKER",
+    "value": "348.04 — 425.38"
+  },
+  {
+    "i": 73,
+    "label": "DAY RANGE",
+    "value": "0.00 — 0.00"
+  },
+  {
+    "i": 74,
+    "label": "",
+    "value": ""
+  },
+  {
+    "i": 75,
+    "label": "Ask Price",
+    "value": "0.00"
+  },
+  {
+    "i": 76,
+    "label": "Ask Volume",
+    "value": "0"
+  },
+  {
+    "i": 77,
+    "label": "Bid Price",
+    "value": "0.00"
+  },
+  {
+    "i": 78,
+    "label": "Bid Volume",
+    "value": "0"
+  },
+  {
+    "i": 79,
+    "label": "Market Cap (000's)",
+    "value": "438,033,730.02"
+  },
+  {
+    "i": 80,
+    "label": "Shares",
+    "value": "1,185,060,006"
+  },
+  {
+    "i": 81,
+    "label": "Free Float",
+    "value": "414,771,002"
+  },
+  {
+    "i": 82,
+    "label": "Free Float",
+    "value": "35.00%"
+  }
+]

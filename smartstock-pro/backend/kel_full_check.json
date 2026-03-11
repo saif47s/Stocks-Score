@@ -1,0 +1,44 @@
+{
+  "symbol": "KEL",
+  "name": "K-Electric Limited",
+  "sector": "POWER GENERATION & DISTRIBUTION",
+  "closePrice": 7.81,
+  "change": -0.24,
+  "changePercent": -2.98,
+  "volume": 36917726,
+  "isDebt": false,
+  "isETF": false,
+  "lastUpdated": "2026-03-08T12:50:44.564Z",
+  "peRatio": 781,
+  "pbRatio": 0,
+  "dividendYield": 0,
+  "eps": 0,
+  "marketCap": 215674667.05,
+  "roe": 0,
+  "valueScore": 25,
+  "healthScore": 20,
+  "growthScore": 15,
+  "momentumScore": 19,
+  "totalScore": 32,
+  "zScore": {
+    "score": 5.37,
+    "zone": "Safe",
+    "risk": "Low"
+  },
+  "fScore": {
+    "score": 9,
+    "rating": "Bulletproof"
+  },
+  "masterSignal": {
+    "signal": "STRONG BUY",
+    "strength": 85,
+    "description": "Quality: 20% ROIC, Valuation: 12 EV/EBITDA, F-Score: 9/9"
+  },
+  "roic": 0.2,
+  "evEbitda": 12,
+  "macroImpact": 0.5,
+  "sentimentScore": 80,
+  "insiderFlow": "Neutral",
+  "assetType": "Stock",
+  "isSuspicious": false
+}

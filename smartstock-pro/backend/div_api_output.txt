@@ -1,0 +1,17 @@
+﻿
+https://dps.psx.com.pk/dividends/MCB
+  Error: 404
+
+https://dps.psx.com.pk/api/dividends?symbol=MCB
+  Error: 404
+
+https://dps.psx.com.pk/company/MCB/dividends
+  Error: 404
+
+https://dps.psx.com.pk/corporate-action/MCB
+  Error: 404
+
+https://dps.psx.com.pk/quotations?symbol=MCB&type=dividend
+  Error: 404
+
+No inline dividend JSON found in script tags

@@ -1,0 +1,7 @@
+﻿
+=== All TR rows with dividend-related text for MCB ===
+TR[18]: "Feb 16, 2026Text of Advertisement Prior to Publication - Final Cash Dividend, 2025 and Mandatory Requirement of Valid CNIC and IBAN  View┬á┬á┬áPDF"
+TR[20]: "Nov 12, 2025Text of Advertisement Prior to Publication - Credit of Third Interim Cash Dividend (D-91) 2025  View┬á┬á┬áPDF"
+
+=== All TR rows with dividend-related text for ENGRO ===
+TR[20]: "Nov 20, 2024Credit of Third Interim Cash Dividend  View┬á┬á┬áPDF"
